@@ -1,3 +1,6 @@
 {
   "foo": "production foooooo"
+  "info": {
+    "url": "prod url"
+  }
 }
