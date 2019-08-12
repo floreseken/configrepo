@@ -1,3 +1,4 @@
 {
-  "appsetting": "appsetting value"
+  "appsetting": "appsetting value",
+  "foo": "foo value"
 }
